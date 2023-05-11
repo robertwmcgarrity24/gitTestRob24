@@ -8,7 +8,7 @@
 
 \f0\fs30 \cf2 \cb3 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec2 # hello-world\cb1 \
-\cb3 Hello World repository for Git tutorial\cb1 \
+\cb3 Hi  World the dog tutorial\cb1 \
 \cb3 This is an example repository for the Git tutoial on https://www.w3schools.com\cb1 \
 \
 \cb3 This repository is built step by step in the tutorial.body \{\cb1 \
